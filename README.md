@@ -60,7 +60,7 @@ The SpaceNFT project demonstrates the end-to-end process of creating, deploying,
 ## Testing
 1. Ensure you have testnet Ether and MATIC tokens for Goerli and Polygon Mumbai, respectively.
 2. Update the `test.js` script with the contract addresses and your wallet details.
-3. Run the script: `npx hardhat run scripts/test.js --network goerli` for balanceOf on Mumbai.
+3. Run the script: `npx hardhat run scripts/test.js --network mumbai` for balanceOf on Mumbai.
 
 **Note**: Always use testnets for these operations. Be cautious with your wallet details and keep private keys secret
 
